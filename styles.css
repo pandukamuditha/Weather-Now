@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  background-color: #EEEEEE;
+}
+
+.container, .row {
+  height: 100%;
+}
+
+.card {
+  display: none;
+  color: white;
+  border: none !important;
+  background-color: #00897B;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-body > p {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+#weather {
+  margin: 0 !important;
+}
+
+#weather-icon {
+  align-content: center;
+}
+
+.element {
+  height: 50px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+ }
+
+.white {fill:#FFFFFF}
+.gray {fill:#E0E0E0}
+.yellow {fill:#FFEB3B}
