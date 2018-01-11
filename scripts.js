@@ -25,7 +25,7 @@ function getWeather(position) {
       showWeather(this.responseText);
     }
   };
-  xhttp.open("GET","http://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+lon+"&appid=92437809006d8b3247b26b3d12bd2086&units=metric",true);
+  xhttp.open("GET","https://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+lon+"&appid=92437809006d8b3247b26b3d12bd2086&units=metric",true);
   xhttp.send();
 }
 
