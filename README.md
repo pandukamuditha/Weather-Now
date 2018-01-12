@@ -1,5 +1,5 @@
 # Weather-Now 
-### [Preview]()
+### [Preview](https://pandukamuditha.github.io/weather-now/)
 
 * Second project of the freeCodeCamp's Intermediate Front End Development Projects.
 
