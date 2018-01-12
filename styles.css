@@ -18,7 +18,7 @@ html, body {
 .card-body > p {
   font-family: 'Raleway', sans-serif;
   text-align: center;
-  font-size: 30px;
+  font-size: 2em;
 }
 
 #weather {
